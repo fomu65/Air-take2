@@ -16,6 +16,7 @@
 		3E53570123B51CF100B547E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E5356FF23B51CF100B547E0 /* LaunchScreen.storyboard */; };
 		3E53570C23B51CF100B547E0 /* Air_take2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E53570B23B51CF100B547E0 /* Air_take2Tests.swift */; };
 		3E53571723B51CF100B547E0 /* Air_take2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E53571623B51CF100B547E0 /* Air_take2UITests.swift */; };
+		3E53572523B526AC00B547E0 /* TimerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E53572423B526AC00B547E0 /* TimerModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3E53571223B51CF100B547E0 /* Air take2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Air take2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E53571623B51CF100B547E0 /* Air_take2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air_take2UITests.swift; sourceTree = "<group>"; };
 		3E53571823B51CF100B547E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E53572423B526AC00B547E0 /* TimerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3E5356F123B51CEF00B547E0 /* AppDelegate.swift */,
 				3E5356F323B51CEF00B547E0 /* SceneDelegate.swift */,
 				3E5356F823B51CEF00B547E0 /* ContentView.swift */,
+				3E53572423B526AC00B547E0 /* TimerModel.swift */,
 				3E5356FA23B51CF100B547E0 /* Assets.xcassets */,
 				3E5356FF23B51CF100B547E0 /* LaunchScreen.storyboard */,
 				3E53570223B51CF100B547E0 /* Info.plist */,
@@ -272,6 +275,7 @@
 			files = (
 				3E5356F723B51CEF00B547E0 /* Air_take2.xcdatamodeld in Sources */,
 				3E5356F223B51CEF00B547E0 /* AppDelegate.swift in Sources */,
+				3E53572523B526AC00B547E0 /* TimerModel.swift in Sources */,
 				3E5356F923B51CEF00B547E0 /* ContentView.swift in Sources */,
 				3E5356F423B51CEF00B547E0 /* SceneDelegate.swift in Sources */,
 			);
